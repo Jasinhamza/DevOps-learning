@@ -4,4 +4,7 @@
 
 ## Step by step of what i did
 
-1. Step one was to buy the
+1. Step one was to buy the domain. I chose to buy my domain through Cloudfare.
+No specific reason except that i know that its cheap.
+
+![Cloudflare domain purchase page displayed in a browser, showing the domain registration process and purchase details.](git-lab/networking/screenshots/Screenshot From 2026-10-23 02-24-02.png)
