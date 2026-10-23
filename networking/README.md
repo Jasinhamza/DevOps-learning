@@ -18,7 +18,7 @@ No specific reason except that i know that its cheap.
 
 ## Step 3
 
-- Changing security settings to allow HTTP from port 80.
+- Changing security rules to allow HTTP from port 80.
 
 ![changing security rules](screenshots/03-screenshot.png)
 
