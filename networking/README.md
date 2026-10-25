@@ -61,6 +61,6 @@ No specific reason except that i know that its cheap.
 
 - My browser automatically was trying to join through HTTPS but only HTTP was set up through port 80.
 - I typed (http://nginx.jasinhamza.com)
-- And finally after some hours of trials and tribulations everything worked!
+- And finally after some hours of trials and tribulations everything worked!!
 
 ![Working website](screenshots/08-screenshot.png)
