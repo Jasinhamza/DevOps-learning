@@ -1,0 +1,13 @@
+name: Coderco CICD worklfow
+
+on: [push]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: checkout code
+              uses: actions/checkout@v2
+            - name: Test of worklfow
+              run: echo "Hello World"
